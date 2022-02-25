@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "<915322330505416724",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
@@ -11,14 +11,14 @@
       "id": "WitcherCraft-1.12.2",
       "name": "WitcherCraft (Minecraft 1.12.2)",
       "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2857)",
-      "icon": null,
+      "icon": "https://thewitchercraft.com/imgs/wclogo.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "largeImageText": "WitcherCraft",
+        "largeImageKey": "witchercraftlogo"
       },
       "mainServer": false,
       "autoconnect": false,
