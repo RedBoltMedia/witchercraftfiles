@@ -244,6 +244,106 @@
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/witchercraft333.jar",
             "MD5": "c010267cf112220b036d4a7a4085e285"
           }
+        },
+        {
+          "id": "generated.library:1.12.2:SwordSkillsApi-1.1.0@jar",
+          "name": "1.12.2",
+          "type": "Library",
+          "artifact": {
+            "size": 28000,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/1.12.2-SwordSkillsApi-1.1.0.jar",
+            "MD5": "26ff02259358a62b995974eedc41d77e"
+          }
+        },
+        {
+          "id": "generated.library:CreativeCore_v1.10.12_mc1.12.2:0.0.0@jar",
+          "name": "CreativeCore_v1.10.12_mc1.12.2",
+          "type": "Library",
+          "artifact": {
+            "size": 1090376,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/CreativeCore_v1.10.12_mc1.12.2.jar",
+            "MD5": "639e94f2d3dff6b4e055f7468bc10cb7"
+          }
+        },
+        {
+          "id": "generated.library:DynamicSurroundings:1.12.2-3.6.1.0@jar",
+          "name": "DynamicSurroundings",
+          "type": "Library",
+          "artifact": {
+            "size": 15929762,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "MD5": "1a0d50a34941865ff091a492e0612502"
+          }
+        },
+        {
+          "id": "generated.library:Forgelin:1.8.4@jar",
+          "name": "Forgelin",
+          "type": "Library",
+          "artifact": {
+            "size": 6278399,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/Forgelin-1.8.4.jar",
+            "MD5": "2da79fce72265eab0541e565636d389d"
+          }
+        },
+        {
+          "id": "generated.library:OreLib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib",
+          "type": "Library",
+          "artifact": {
+            "size": 341728,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/OreLib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          }
+        },
+        {
+          "id": "generated.library:PotionCore:1.9_for_1.12.2@jar",
+          "name": "PotionCore",
+          "type": "Library",
+          "artifact": {
+            "size": 145329,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/PotionCore-1.9_for_1.12.2.jar",
+            "MD5": "5dea390b2e61967b35d23f73adf73bad"
+          }
+        },
+        {
+          "id": "generated.library:llibrary:1.7.20-1.12.2@jar",
+          "name": "llibrary",
+          "type": "Library",
+          "artifact": {
+            "size": 884550,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/llibrary-1.7.20-1.12.2.jar",
+            "MD5": "218aefca8bd6bb8d9ff7dd877c1d277d"
+          }
+        },
+        {
+          "id": "generated.library:movingworld:1.12-6.353-full@jar",
+          "name": "movingworld",
+          "type": "Library",
+          "artifact": {
+            "size": 1198794,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/movingworld-1.12-6.353-full.jar",
+            "MD5": "7a30c2638cbf3761c1a2797097a9505d"
+          }
+        },
+        {
+          "id": "generated.library:randompatches:1.12.2-1.22.1.7@jar",
+          "name": "randompatches",
+          "type": "Library",
+          "artifact": {
+            "size": 293206,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/randompatches-1.12.2-1.22.1.7.jar",
+            "MD5": "1bb26148768a05d62a94e6b258bb3407"
+          }
+        },
+        {
+          "id": "generated.library:witchercraftsound:0.0.0@jar",
+          "name": "witchercraftsound",
+          "type": "Library",
+          "artifact": {
+            "size": 14573857,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/witchercraftsound.jar",
+            "MD5": "03cb48f9d5c1fd720387c60586d5148e"
+          }
         }
       ]
     }
