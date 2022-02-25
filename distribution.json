@@ -334,16 +334,6 @@
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/randompatches-1.12.2-1.22.1.7.jar",
             "MD5": "1bb26148768a05d62a94e6b258bb3407"
           }
-        },
-        {
-          "id": "generated.library:witchercraftsound:0.0.0@jar",
-          "name": "witchercraftsound",
-          "type": "Library",
-          "artifact": {
-            "size": 14573857,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/witchercraftsound.jar",
-            "MD5": "03cb48f9d5c1fd720387c60586d5148e"
-          }
         }
       ]
     }
