@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "WitcherCraft (Minecraft 1.12.2)",
-    "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -14,7 +14,7 @@
     "autoconnect": false
   },
   "forge": {
-    "version": "14.23.5.2860"
+    "version": "14.23.5.2855"
   },
   "untrackedFiles": []
 }
