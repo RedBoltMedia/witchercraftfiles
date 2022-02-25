@@ -1,24 +1,24 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://forums.ardacraft.me/c/announcements/5.rss",
   "discord": {
-    "clientId": "<915322330505416724",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "734960858504888431",
+    "smallImageText": "ArdaCraft",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
       "id": "WitcherCraft-1.12.2",
       "name": "WitcherCraft (Minecraft 1.12.2)",
       "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2857)",
-      "icon": "https://thewitchercraft.com/imgs/wclogo.png",
+      "icon": "https://ardacraft.github.io/launcher/assets/logo.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "craftmc.pl",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "WitcherCraft",
-        "largeImageKey": "witchercraftlogo"
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -857,6 +857,61 @@
             "size": 14573857,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/witchercraftsound.jar",
             "MD5": "03cb48f9d5c1fd720387c60586d5148e"
+          }
+        },
+        {
+          "id": "ConquestReforged.zip",
+          "name": "ConquestReforged.zip",
+          "type": "File",
+          "artifact": {
+            "size": 77628036,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/resourcepacks/ConquestReforged.zip",
+            "MD5": "0da376d2d6b3e8f3b0738bbc89360384",
+            "path": "resourcepacks/ConquestReforged.zip"
+          }
+        },
+        {
+          "id": "polfont.zip",
+          "name": "polfont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 34755,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/resourcepacks/polfont.zip",
+            "MD5": "fed7c2fab237f930294c7d78c19fe133",
+            "path": "resourcepacks/polfont.zip"
+          }
+        },
+        {
+          "id": "Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+          "name": "Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142232,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+            "MD5": "c2aa1605cae46cbb6ce42d00bdbcd0f0",
+            "path": "shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip"
+          }
+        },
+        {
+          "id": "Sildurs Vibrant Shaders v1.29 Medium.zip",
+          "name": "Sildurs Vibrant Shaders v1.29 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 140454,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/shaderpacks/Sildurs%20Vibrant%20Shaders%20v1.29%20Medium.zip",
+            "MD5": "abca7705a0cc87c80e0979bd97970004",
+            "path": "shaderpacks/Sildurs Vibrant Shaders v1.29 Medium.zip"
+          }
+        },
+        {
+          "id": "Sildurs basic shaders v1.05.zip",
+          "name": "Sildurs basic shaders v1.05.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5173,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/shaderpacks/Sildurs%20basic%20shaders%20v1.05.zip",
+            "MD5": "86b7a3362ad9e44138cb30df4c6da13a",
+            "path": "shaderpacks/Sildurs basic shaders v1.05.zip"
           }
         }
       ]
