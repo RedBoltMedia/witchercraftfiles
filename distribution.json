@@ -236,13 +236,467 @@
           ]
         },
         {
+          "id": "damageindicatorsmod:DamageIndicatorsMod:3.5.1@jar",
+          "name": "Damage Indicators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285416,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/[1.12.2]DamageIndicatorsMod-3.5.1.jar",
+            "MD5": "09dd0cd435c1185b796b3557cbce6cdc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dynamicswordskills:dynamicswordskills:6.0.1@jar",
+          "name": "Dynamic Sword Skills",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1043463,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/1.12.2-DynamicSwordSkills-6.0.1.jar",
+            "MD5": "88102beae7d6a43c6010a23a541dc8a2"
+          }
+        },
+        {
+          "id": "animalium:animalium:0.3.8@jar",
+          "name": "Animalium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 318527,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/Animalium-0.3.8.jar",
+            "MD5": "b106a3c301253788ebe922c95538643d"
+          }
+        },
+        {
+          "id": "generated.forgemod:asm:Mod-1.12.2@jar",
+          "name": "ASM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 242350,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/ASM-Mod-1.12.2.jar",
+            "MD5": "2ff1b5f8ae0a59286cbf986c170d5d17"
+          }
+        },
+        {
+          "id": "de.eydamos:backpack:3.0.2-1.12.2@jar",
+          "name": "Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 245078,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/backpack-3.0.2-1.12.2%20(1).jar",
+            "MD5": "7e962366e7e71e9ab28847dce36d439d"
+          }
+        },
+        {
+          "id": "baubles:baubles:1.12-1.5.2@jar",
+          "name": "Baubles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 144843,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/Baubles-1.12-1.5.2%20%20fix.jar",
+            "MD5": "c234a4ad6dfdaab64ffa28a3617fceea"
+          }
+        },
+        {
+          "id": "com.fuzs:betteranimationscollection2:1.0.2@jar",
+          "name": "Better Animations Collection 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 140003,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/BetterAnimationsCollection2-v1.0.2-1.12.2.jar",
+            "MD5": "a5761799f717da31d79f9727c477c232"
+          }
+        },
+        {
+          "id": "bettercombat.mod:bettercombatmod:1.5.6@jar",
+          "name": "Better Combat Rebirth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 98955,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/BetterCombat-1.12.2-1.5.6.jar",
+            "MD5": "0885bc52f6f7bc3830cf56d56a00db7e"
+          }
+        },
+        {
+          "id": "mods.betterfoliage:betterfoliage:2.2.0@jar",
+          "name": "Better Foliage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 926081,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/BetterFoliage-MC1.12-2.2.0.jar",
+            "MD5": "e05a720c5900b9bac4e01179abe8eef6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "paulevs.betternether:betternether:0.1.8.6@jar",
+          "name": "Better Nether",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1769238,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/betternether-0.1.8.6.jar",
+            "MD5": "ad400778cbe98a73f0a2686190dcd079"
+          }
+        },
+        {
+          "id": "betterquesting.core:betterquesting:3.5.329@jar",
+          "name": "Better Questing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1425671,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/BetterQuesting-3.5.329%20(1).jar",
+            "MD5": "85da6feb96533799ed726f22f09682fc"
+          }
+        },
+        {
+          "id": "com.conquestreforged:conquest:3.0.2@jar",
+          "name": "Conquest Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60868403,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/ConquestReforged-3.0.2-mc1.12.2.jar",
+            "MD5": "206e379854bf2d73efe509b133ff9495"
+          }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9911871,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20)%20(2).jar",
+            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "com.elytradev:davincisvessels:1.12-6.355-full@jar",
+          "name": "Davinci's Vessels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 545210,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/davincisvessels-1.12-6.355-full.jar",
+            "MD5": "3fb2d315cf4d00fcd02c45780b854289"
+          }
+        },
+        {
+          "id": "com.noobanidus:dwmh:1.12.2-3.1.2@jar",
+          "name": "Dude! Where's my Horse?",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 492830,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/dwmh-1.12.2-3.1.2.jar",
+            "MD5": "455885e7ca2e84edfd00d23b015202a9"
+          }
+        },
+        {
           "id": "org.orecruncher:dsurround:1.12.2-3.6.1.0@jar",
           "name": "Dynamic Surroundings",
           "type": "ForgeMod",
           "artifact": {
             "size": 15929762,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/DynamicSurroundings-1.12.2-3.6.1.0.jar",
             "MD5": "1a0d50a34941865ff091a492e0612502"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "electroblob.wizardry:ebwizardry:4.3.1@jar",
+          "name": "Electroblob's Wizardry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10377916,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/ElectroblobsWizardry-4.3.1-MC1.12.2.jar",
+            "MD5": "fc336dce3fe5c9c3771c960a2327ddd3"
+          }
+        },
+        {
+          "id": "team.creative:enhancedvisuals:1.3@jar",
+          "name": "Enhanced Visuals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3771673,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/EnhancedVisuals_v1.3.24_mc1.12.2.jar",
+            "MD5": "fa9880be008ec1bc9bf7dc5101afb4d0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.fishmod:mod_lavacow:1.2.4@jar",
+          "name": "Fish's Undead Rising",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3877412,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/Fish's+Undead+Rising-1.2.4a.jar",
+            "MD5": "d9962420783cbcbd7a7846d94a6b0efa"
+          }
+        },
+        {
+          "id": "pl.asie:foamfix:0.10.14-1.12.2@jar",
+          "name": "FoamFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 242897,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionaloff/foamfix-0.10.14-1.12.2.jar",
+            "MD5": "25a8849a99778579e2d32badaff30e81"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.mamiyaotaru.voxelmap.forgemod:voxelmap:1.9.16@jar",
+          "name": "VoxelMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1754502,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/forgemod_VoxelMap-1.9.16_for_1.12.2.jar",
+            "MD5": "6ce4fdb0cc45f1f1477880e6956a625a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.hancinworld:fw:1.6.0@jar",
+          "name": "Fullscreen Windowed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18396,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/FullscreenWindowed-1.12-1.6.0%20(1).jar",
+            "MD5": "c7679200bdf1f6cb71361555407a4c7f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "thedarkcolour.futuremc:futuremc:1.12.2-0.2.6.1@jar",
+          "name": "Future MC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14381704,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/future-mc-1.12.2-0.2.6.1.jar",
+            "MD5": "f2929fa5e04424e73e84749cdd23fd45"
+          }
+        },
+        {
+          "id": "de.maxhenkel:gravestone:1.10.0@jar",
+          "name": "Gravestone Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76712,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/gravestone-1.10.0.jar",
+            "MD5": "7c35ef5fdc6843c20e8030e0030f9e64"
+          }
+        },
+        {
+          "id": "xyz.kaydax:ido:1.1.0@jar",
+          "name": "Ido - 1.12 movement enhancement",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20516,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/ido-1.12.2-1.1.0.jar",
+            "MD5": "103522249c0fe86372d6bfede026d35d"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:4.16.1.301@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 653211,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.301.jar",
+            "MD5": "1dee4be93d666e2228039c551e927b35"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "melonslise.locks:locks:2.5.1@jar",
+          "name": "Locks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 481968,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/locks-1.12.2-2.5.1.jar",
+            "MD5": "4edd554369a6c9e7fa50245acec7f65d"
+          }
+        },
+        {
+          "id": "com.lycanitesmobs:lycanitesmobs:1.12.2-2.0.7.2@jar",
+          "name": "Lycanites Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80300509,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/lycanitesmobs-1.12.2-2.0.7.2%20(1).jar",
+            "MD5": "c7736c7b47d88b98abb27c1fb22b164b"
+          }
+        },
+        {
+          "id": "com.minecolonies.coremod:minecolonies:1.12.2-0.11.804-RELEASE@jar",
+          "name": "MineColonies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 34927830,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/minecolonies-1.12.2-0.11.804-RELEASE-universal%20(1).jar",
+            "MD5": "798ce6de874e8a7908fe4e2a428abf1a"
+          }
+        },
+        {
+          "id": "noppes.mpm:moreplayermodels:1.12@jar",
+          "name": "MorePlayerModels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 921462,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/More-Player-Models-Mod-1.12.2.jar",
+            "MD5": "4e6de0b50936afd90a69e021e36d9de4"
+          }
+        },
+        {
+          "id": "bq_npc_integration.core:bq_npc_integration:3.4.34@jar",
+          "name": "NPC Integration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63674,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/NPCIntegration-3.4.34%20(1).jar",
+            "MD5": "39f8bde2120b5200260f1ce1b3f62736"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2598821,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_F5%20(1).jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.pam:harvestcraft:1.12.2zg@jar",
+          "name": "Pam's HarvestCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4912890,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg%20(1).jar",
+            "MD5": "e8e1ac67accdeea50116e1e92e592397"
+          }
+        },
+        {
+          "id": "drethic.questbook:questbook:3.1.1-1.12@jar",
+          "name": "Better Questing Quest Book",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20203,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/questbook-3.1.1-1.12.jar",
+            "MD5": "aa802b89cd4244d0bfaff4b60a0f5654"
+          }
+        },
+        {
+          "id": "realdrops.core:realdrops:1.2.14@jar",
+          "name": "Realistic Item Drops",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 65733,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/RealisticItemDrops-1.2.14.jar",
+            "MD5": "7ecff9f80b9cd0986b18489405136e81"
+          }
+        },
+        {
+          "id": "bre.smoothfont:smoothfont:mc1.12.2-2.1.2@jar",
+          "name": "Smooth Font",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283513,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/SmoothFont-mc1.12.2-2.1.2.jar",
+            "MD5": "696c2cab0d01b90e33f6c85277f1ea83"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "snownee.snow:snowrealmagic:0.3.2@jar",
+          "name": "Snow! Real Magic!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30651,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/SnowRealMagic-0.3.2.jar",
+            "MD5": "86233f56a47633d3291c2611d75e4d9b"
+          }
+        },
+        {
+          "id": "com.tmtravlr:soundfilters:0.12_for_1.12@jar",
+          "name": "Sound Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 43161,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionalon/SoundFilters-0.12_for_1.12.jar",
+            "MD5": "afbdb448f432b5f7fff4967a1163d858"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "bq_standard.core:bq_standard:3.4.173@jar",
+          "name": "Standard Expansion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 460454,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/StandardExpansion-3.4.173%20(1).jar",
+            "MD5": "a05ed445a2c384e429c124b673cbda2a"
+          }
+        },
+        {
+          "id": "swordcraftonline:swordcraftonline:1.0.1@jar",
+          "name": "SwordCraftOnline",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29483902,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/SwordCraftOnline+1.12.2+-+V1.1.0%20(1).jar",
+            "MD5": "21bc29db9749b5526db235c99ad5090b"
+          }
+        },
+        {
+          "id": "noppes.vc:variedcommodities:1.0@jar",
+          "name": "Varied Commodities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1676589,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/VariedCommodities_1.12.2(21nov19).jar",
+            "MD5": "54887dd546b856153573e7f8fe04b9b7"
+          }
+        },
+        {
+          "id": "net.gliby.voicechat:gvc:1.2.5@jar",
+          "name": "Gliby's Voice Chat Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423682,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/Voice+Chat+Reloaded-1.2.5.jar",
+            "MD5": "13344fa9ab436f944f354fb8687306d8"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:4.1.0@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178994,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/Waystones_1.12.2-4.1.0%20(1).jar",
+            "MD5": "5159122949ffb79b80a341135673e8f8"
           }
         },
         {
@@ -253,6 +707,30 @@
             "size": 2895517,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/witchercraft333.jar",
             "MD5": "c010267cf112220b036d4a7a4085e285"
+          }
+        },
+        {
+          "id": "net.mcreator:witchercraftsound:1.0.0@jar",
+          "name": "WitcherCraftSound",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14573857,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/witchercraftsound.jar",
+            "MD5": "03cb48f9d5c1fd720387c60586d5148e"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:6.1.10-SNAPSHOT;e6b38e8@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1479535,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/optionaloff/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+            "MD5": "bdf6d8d20591c014fed66633f4ef3b23"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
