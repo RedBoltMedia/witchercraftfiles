@@ -236,6 +236,16 @@
           ]
         },
         {
+          "id": "org.orecruncher:dsurround:1.12.2-3.6.1.0@jar",
+          "name": "Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15929762,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "MD5": "1a0d50a34941865ff091a492e0612502"
+          }
+        },
+        {
           "id": "net.mcreator:witchercraft:1.0.0@jar",
           "name": "WitcherCraft",
           "type": "ForgeMod",
@@ -313,16 +323,6 @@
             "size": 293206,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/randompatches-1.12.2-1.22.1.7.jar",
             "MD5": "1bb26148768a05d62a94e6b258bb3407"
-          }
-        },
-        {
-          "id": "generated.library:witchercraftsound:0.0.0@jar",
-          "name": "witchercraftsound",
-          "type": "Library",
-          "artifact": {
-            "size": 14573857,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/witchercraftsound.jar",
-            "MD5": "03cb48f9d5c1fd720387c60586d5148e"
           }
         }
       ]
