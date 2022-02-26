@@ -13,7 +13,7 @@
       "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
       "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
       "version": "1.0.0",
-      "address": "rgmc.pl",
+      "address": "168.119.6.40:40103",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Production Server",
@@ -791,6 +791,61 @@
             "size": 293206,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/randompatches-1.12.2-1.22.1.7.jar",
             "MD5": "1bb26148768a05d62a94e6b258bb3407"
+          }
+        },
+        {
+          "id": "ConquestReforged.zip",
+          "name": "ConquestReforged.zip",
+          "type": "File",
+          "artifact": {
+            "size": 77628036,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/resourcepacks/ConquestReforged.zip",
+            "MD5": "0da376d2d6b3e8f3b0738bbc89360384",
+            "path": "resourcepacks/ConquestReforged.zip"
+          }
+        },
+        {
+          "id": "polfont.zip",
+          "name": "polfont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 34755,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/resourcepacks/polfont.zip",
+            "MD5": "fed7c2fab237f930294c7d78c19fe133",
+            "path": "resourcepacks/polfont.zip"
+          }
+        },
+        {
+          "id": "Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+          "name": "Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142232,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+            "MD5": "c2aa1605cae46cbb6ce42d00bdbcd0f0",
+            "path": "shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip"
+          }
+        },
+        {
+          "id": "Sildurs Vibrant Shaders v1.29 Medium.zip",
+          "name": "Sildurs Vibrant Shaders v1.29 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 140454,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/shaderpacks/Sildurs%20Vibrant%20Shaders%20v1.29%20Medium.zip",
+            "MD5": "abca7705a0cc87c80e0979bd97970004",
+            "path": "shaderpacks/Sildurs Vibrant Shaders v1.29 Medium.zip"
+          }
+        },
+        {
+          "id": "Sildurs basic shaders v1.05.zip",
+          "name": "Sildurs basic shaders v1.05.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5173,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/shaderpacks/Sildurs%20basic%20shaders%20v1.05.zip",
+            "MD5": "86b7a3362ad9e44138cb30df4c6da13a",
+            "path": "shaderpacks/Sildurs basic shaders v1.05.zip"
           }
         }
       ]
