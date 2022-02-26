@@ -1,27 +1,27 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://westeroscraft.com/articles/index.rss",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "385581240906022916",
+    "smallImageText": "WesterosCraft",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
       "id": "WitcherCraft-1.12.2",
       "name": "WitcherCraft",
       "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
-      "icon": null,
+      "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
       "version": "1.0.0",
-      "address": "rgmc.pl",
+      "address": "mc.westeroscraft.com:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1.12.2 Production Server",
+        "largeImageText": "WesterosCraft 1.12.2 Production Server",
+        "largeImageKey": "server-prod"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
