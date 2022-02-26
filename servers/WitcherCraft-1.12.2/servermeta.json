@@ -2,7 +2,7 @@
   "$schema": "file:///C:/Users/cioch/Documents/GitHub/witchercraftfiles/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "WitcherCraft (Minecraft 1.12.2)",
+    "name": "WitcherCraft",
     "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
     "address": "localhost:25565",
     "discord": {
