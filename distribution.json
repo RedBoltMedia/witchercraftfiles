@@ -266,16 +266,6 @@
           }
         },
         {
-          "id": "generated.library:DynamicSurroundings:1.12.2-3.6.1.0@jar",
-          "name": "DynamicSurroundings",
-          "type": "Library",
-          "artifact": {
-            "size": 15929762,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/DynamicSurroundings-1.12.2-3.6.1.0.jar",
-            "MD5": "1a0d50a34941865ff091a492e0612502"
-          }
-        },
-        {
           "id": "generated.library:Forgelin:1.8.4@jar",
           "name": "Forgelin",
           "type": "Library",
