@@ -306,16 +306,6 @@
           }
         },
         {
-          "id": "generated.library:llibrary:1.7.20-1.12.2@jar",
-          "name": "llibrary",
-          "type": "Library",
-          "artifact": {
-            "size": 884550,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/llibrary-1.7.20-1.12.2.jar",
-            "MD5": "218aefca8bd6bb8d9ff7dd877c1d277d"
-          }
-        },
-        {
           "id": "generated.library:movingworld:1.12-6.353-full@jar",
           "name": "movingworld",
           "type": "Library",
