@@ -561,6 +561,16 @@
           }
         },
         {
+          "id": "com.elytradev:MovingWorld:1.12-6.353@jar",
+          "name": "Moving World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1198794,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/movingworld-1.12-6.353-full.jar",
+            "MD5": "7a30c2638cbf3761c1a2797097a9505d"
+          }
+        },
+        {
           "id": "bq_npc_integration.core:bq_npc_integration:3.4.34@jar",
           "name": "NPC Integration",
           "type": "ForgeMod",
@@ -781,16 +791,6 @@
             "size": 145329,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/PotionCore-1.9_for_1.12.2.jar",
             "MD5": "5dea390b2e61967b35d23f73adf73bad"
-          }
-        },
-        {
-          "id": "generated.library:movingworld:1.12-6.353-full@jar",
-          "name": "movingworld",
-          "type": "Library",
-          "artifact": {
-            "size": 1198794,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/movingworld-1.12-6.353-full.jar",
-            "MD5": "7a30c2638cbf3761c1a2797097a9505d"
           }
         },
         {
