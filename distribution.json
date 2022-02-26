@@ -269,16 +269,6 @@
           }
         },
         {
-          "id": "generated.forgemod:asm:Mod-1.12.2@jar",
-          "name": "ASM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 242350,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/ASM-Mod-1.12.2.jar",
-            "MD5": "2ff1b5f8ae0a59286cbf986c170d5d17"
-          }
-        },
-        {
           "id": "de.eydamos:backpack:3.0.2-1.12.2@jar",
           "name": "Backpack",
           "type": "ForgeMod",
