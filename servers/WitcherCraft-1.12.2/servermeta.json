@@ -4,6 +4,7 @@
     "version": "1.0.0",
     "name": "WitcherCraft",
     "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
+    "icon": "https://thewitchercraft.com/imgs/wclogo.png",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

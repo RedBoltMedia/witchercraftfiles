@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "WitcherCraft-1.12.2",
-      "name": "WitcherCraft (Minecraft 1.12.2)",
+      "name": "WitcherCraft",
       "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
       "icon": null,
       "version": "1.0.0",
