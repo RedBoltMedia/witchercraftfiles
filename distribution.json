@@ -13,7 +13,7 @@
       "description": "Serwer minecraft WitcherCraft",
       "icon": "https://thewitchercraft.com/imgs/wclogo.png",
       "version": "1.0.0",
-      "address": "witchercraft.crsv.pl",
+      "address": "witchercraft.csrv.pl",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Production Server",
