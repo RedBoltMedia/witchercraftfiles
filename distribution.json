@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "rss": "https://westeroscraft.com/articles/index.rss",
   "discord": {
-    "clientId": "385581240906022916",
-    "smallImageText": "WesterosCraft",
+    "clientId": "915322330505416724",
+    "smallImageText": "witchercraftlogo",
     "smallImageKey": "seal-circle"
   },
   "servers": [
@@ -11,7 +11,7 @@
       "id": "WitcherCraft-1.12.2",
       "name": "WitcherCraft",
       "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
-      "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+      "icon": "https://thewitchercraft.com/imgs/wclogo.png",
       "version": "1.0.0",
       "address": "siecmc.pl:25565",
       "minecraftVersion": "1.12.2",
