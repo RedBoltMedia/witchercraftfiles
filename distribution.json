@@ -3,8 +3,8 @@
   "rss": "https://westeroscraft.com/articles/index.rss",
   "discord": {
     "clientId": "915322330505416724",
-    "smallImageText": "witchercraftlogo",
-    "smallImageKey": "seal-circle"
+    "smallImageText": "",
+    "smallImageKey": "witchercraftlogo"
   },
   "servers": [
     {
