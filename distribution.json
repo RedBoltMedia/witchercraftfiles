@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "https://westeroscraft.com/articles/index.rss",
   "discord": {
-    "clientId": "915322330505416724",
+    "clientId": "123123123123123123",
     "smallImageText": "WitcherCraft",
     "smallImageKey": "witchercraftlogo"
   },
@@ -667,6 +667,16 @@
             "size": 29483902,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/SwordCraftOnline+1.12.2+-+V1.1.0%20(1).jar",
             "MD5": "21bc29db9749b5526db235c99ad5090b"
+          }
+        },
+        {
+          "id": "com.elseytd:theaurorian:1.12.2-release@jar",
+          "name": "The Aurorian",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18710219,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/theaurorian-1.12.2-release-may3021.jar",
+            "MD5": "b3cd9f761d78bd765c5683b0c7d3d4c3"
           }
         },
         {
