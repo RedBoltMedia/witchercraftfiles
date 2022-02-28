@@ -17,7 +17,7 @@
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "1.12.2 Production Server",
-        "largeImageText": "WesterosCraft 1.12.2 Production Server",
+        "largeImageText": "WitcherCraft 1.12.2 Production Server",
         "largeImageKey": "server-prod"
       },
       "mainServer": false,
