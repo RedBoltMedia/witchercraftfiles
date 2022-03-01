@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "https://westeroscraft.com/articles/index.rss",
   "discord": {
-    "clientId": "123123123123123123",
+    "clientId": "915322330505416724",
     "smallImageText": "WitcherCraft",
     "smallImageKey": "witchercraftlogo"
   },
@@ -352,6 +352,16 @@
           }
         },
         {
+          "id": "com.blamejared:crafttweaker:1.12-4.1.20.660@jar",
+          "name": "CraftTweaker2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1562816,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/CraftTweaker2-1.12-4.1.20.660.jar",
+            "MD5": "5564da84d9122dc975a7592550e996e2"
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
@@ -485,6 +495,16 @@
             "size": 76712,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/gravestone-1.10.0.jar",
             "MD5": "7c35ef5fdc6843c20e8030e0030f9e64"
+          }
+        },
+        {
+          "id": "iguanaman.hungeroverhaul:hungeroverhaul:1.3.3.jenkins148@jar",
+          "name": "Hunger Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 135518,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/HungerOverhaul-1.12.2-1.3.3.jenkins148.jar",
+            "MD5": "61884285e72495c1769c0e02730cf590"
           }
         },
         {
@@ -714,9 +734,9 @@
           "name": "WitcherCraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2895517,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/witchercraft333.jar",
-            "MD5": "c010267cf112220b036d4a7a4085e285"
+            "size": 2892840,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/forgemods/required/witchercraft3333.jar",
+            "MD5": "d336e8d3126a678bad28d21b364c7227"
           }
         },
         {
@@ -751,6 +771,16 @@
             "size": 28000,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/1.12.2-SwordSkillsApi-1.1.0.jar",
             "MD5": "26ff02259358a62b995974eedc41d77e"
+          }
+        },
+        {
+          "id": "generated.library:AppleCore:mc1.12.2-3.4.0@jar",
+          "name": "AppleCore",
+          "type": "Library",
+          "artifact": {
+            "size": 89615,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/libraries/AppleCore-mc1.12.2-3.4.0.jar",
+            "MD5": "a8dd635a81fed59be0d18206fd383f6e"
           }
         },
         {
