@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/cioch/Documents/GitHub/witchercraftfiles/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "WitcherCraft (Minecraft 1.16.5)",
+    "description": "WitcherCraft Running Minecraft 1.16.5 (Forge v36.2.30)",
+    "icon": "https://www.mygam.pl/static/208472b16dc6e1813c4749673b7b9b8b/ff59c/pepega.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.30"
+  },
+  "untrackedFiles": []
+}
