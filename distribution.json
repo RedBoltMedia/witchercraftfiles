@@ -1922,45 +1922,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G6@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5835761,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G6.jar",
-            "MD5": "4a13bb8132744ab7beeff9f076d48125"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:optifine:1.16.5_HD_U_G7@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5924305,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
-            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.forgemod:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.tmtravlr:soundfilters:0.14_for_1.16.2@jar",
           "name": "Sound Filters",
           "type": "ForgeMod",
@@ -2030,6 +1991,16 @@
             "size": 218587,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/Kiwi-1.16.5-3.6.1.jar",
             "MD5": "c79e1838577a700ddb0c5602fdade074"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.16.5_HD_U_G7:0.0.0@jar",
+          "name": "OptiFine_1.16.5_HD_U_G7",
+          "type": "Library",
+          "artifact": {
+            "size": 5924305,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           }
         },
         {
