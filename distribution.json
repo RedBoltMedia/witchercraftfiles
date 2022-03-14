@@ -1,27 +1,27 @@
 {
   "version": "1.0.0",
-  "rss": "https://westeroscraft.com/articles/index.rss",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "915322330505416724",
-    "smallImageText": "WitcherCraft",
-    "smallImageKey": "witchercraftlogo"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "WitcherCraft-1.12.2",
       "name": "WitcherCraft",
-      "description": "Serwer minecraft WitcherCraft",
-      "icon": "https://thewitchercraft.com/imgs/wclogo.png",
+      "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
+      "icon": null,
       "version": "1.0.0",
-      "address": "witchercraft.csrv.pl",
+      "address": "rgmc.pl",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "1.12.2 Production Server",
-        "largeImageText": "WitcherCraft 1.12.2 Production Server",
-        "largeImageKey": "server-prod"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
@@ -884,6 +884,214 @@
           "artifact": {
             "size": 5173,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft-1.12.2/files/shaderpacks/Sildurs%20basic%20shaders%20v1.05.zip",
+            "MD5": "86b7a3362ad9e44138cb30df4c6da13a",
+            "path": "shaderpacks/Sildurs basic shaders v1.05.zip"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WitcherCraft2-1.16.5",
+      "name": "WitcherCraft2 (Minecraft 1.16.5)",
+      "description": "WitcherCraft2 Running Minecraft 1.16.5",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "generated.library:AutoRegLib:1.6-49@jar",
+          "name": "AutoRegLib",
+          "type": "Library",
+          "artifact": {
+            "size": 57279,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/AutoRegLib-1.6-49.jar",
+            "MD5": "16302251afc7a757f00899b270cc0fa2"
+          }
+        },
+        {
+          "id": "generated.library:CreativeCore_v2.2.1_mc1.16.5:0.0.0@jar",
+          "name": "CreativeCore_v2.2.1_mc1.16.5",
+          "type": "Library",
+          "artifact": {
+            "size": 631207,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/CreativeCore_v2.2.1_mc1.16.5.jar",
+            "MD5": "c32d3e1df267d820eb2b1b8e8adb75e1"
+          }
+        },
+        {
+          "id": "generated.library:Kiwi:1.16.5-3.6.1@jar",
+          "name": "Kiwi",
+          "type": "Library",
+          "artifact": {
+            "size": 218587,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/Kiwi-1.16.5-3.6.1.jar",
+            "MD5": "c79e1838577a700ddb0c5602fdade074"
+          }
+        },
+        {
+          "id": "generated.library:Placebo:1.16.5-4.6.1@jar",
+          "name": "Placebo",
+          "type": "Library",
+          "artifact": {
+            "size": 145933,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/Placebo-1.16.5-4.6.1.jar",
+            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+          }
+        },
+        {
+          "id": "generated.library:PuzzlesLib:v1.0.15-1.16.5-Forge@jar",
+          "name": "PuzzlesLib",
+          "type": "Library",
+          "artifact": {
+            "size": 383853,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/PuzzlesLib-v1.0.15-1.16.5-Forge.jar",
+            "MD5": "cd15438ee5217328af6473cad6425ab5"
+          }
+        },
+        {
+          "id": "generated.library:citadel:1.8.1-1.16.5@jar",
+          "name": "citadel",
+          "type": "Library",
+          "artifact": {
+            "size": 482439,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/citadel-1.8.1-1.16.5.jar",
+            "MD5": "9ee0682eec5d343c6238e30c21c98e69"
+          }
+        },
+        {
+          "id": "generated.library:geckolib:forge-1.16.5-3.0.65@jar",
+          "name": "geckolib",
+          "type": "Library",
+          "artifact": {
+            "size": 3396947,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/geckolib-forge-1.16.5-3.0.65.jar",
+            "MD5": "e91b50323fb87f83f21a8ec683ff6c3f"
+          }
+        },
+        {
+          "id": "generated.library:kotlinforforge:1.17.0-obf@jar",
+          "name": "kotlinforforge",
+          "type": "Library",
+          "artifact": {
+            "size": 6754655,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/libraries/kotlinforforge-1.17.0-obf.jar",
+            "MD5": "7671b34c5268409692e09e8da69fceb6"
+          }
+        },
+        {
+          "id": "CRRP-1.16.5-5.0.7.zip",
+          "name": "CRRP-1.16.5-5.0.7.zip",
+          "type": "File",
+          "artifact": {
+            "size": 86394718,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/resourcepacks/CRRP-1.16.5-5.0.7.zip",
+            "MD5": "e5f37b36750348b49832b97016ab41ed",
+            "path": "resourcepacks/CRRP-1.16.5-5.0.7.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Extreme.zip",
+          "name": "Chocapic13_V9_Extreme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3134623,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Chocapic13_V9_Extreme.zip",
+            "MD5": "2a5ec76ad7acc47005e32cc1e5da1e41",
+            "path": "shaderpacks/Chocapic13_V9_Extreme.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Extreme.zip.txt",
+          "name": "Chocapic13_V9_Extreme.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 69,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Chocapic13_V9_Extreme.zip.txt",
+            "MD5": "878e4095d9aa9a6145685152fc3a4b7d",
+            "path": "shaderpacks/Chocapic13_V9_Extreme.zip.txt"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_High.zip",
+          "name": "Chocapic13_V9_High.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3134568,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Chocapic13_V9_High.zip",
+            "MD5": "29c39e1d1e6030b14e3db3f65c38ce05",
+            "path": "shaderpacks/Chocapic13_V9_High.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Low.zip",
+          "name": "Chocapic13_V9_Low.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2421404,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Chocapic13_V9_Low.zip",
+            "MD5": "c370a206d8d2ddfaab218c1561a57ec7",
+            "path": "shaderpacks/Chocapic13_V9_Low.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Medium.zip",
+          "name": "Chocapic13_V9_Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2428092,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Chocapic13_V9_Medium.zip",
+            "MD5": "55e6328b1ca9e1208f8034bc6983f5c3",
+            "path": "shaderpacks/Chocapic13_V9_Medium.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Ultra.zip",
+          "name": "Chocapic13_V9_Ultra.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3134570,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Chocapic13_V9_Ultra.zip",
+            "MD5": "46d8fcd102bdaa4340c37a137135a2bc",
+            "path": "shaderpacks/Chocapic13_V9_Ultra.zip"
+          }
+        },
+        {
+          "id": "Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+          "name": "Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142232,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip",
+            "MD5": "c2aa1605cae46cbb6ce42d00bdbcd0f0",
+            "path": "shaderpacks/Sildur's+Vibrant+Shaders+v1.31+Extreme.zip"
+          }
+        },
+        {
+          "id": "Sildurs Vibrant Shaders v1.29 Medium.zip",
+          "name": "Sildurs Vibrant Shaders v1.29 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 140454,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Sildurs%20Vibrant%20Shaders%20v1.29%20Medium.zip",
+            "MD5": "abca7705a0cc87c80e0979bd97970004",
+            "path": "shaderpacks/Sildurs Vibrant Shaders v1.29 Medium.zip"
+          }
+        },
+        {
+          "id": "Sildurs basic shaders v1.05.zip",
+          "name": "Sildurs basic shaders v1.05.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5173,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft2-1.16.5/files/shaderpacks/Sildurs%20basic%20shaders%20v1.05.zip",
             "MD5": "86b7a3362ad9e44138cb30df4c6da13a",
             "path": "shaderpacks/Sildurs basic shaders v1.05.zip"
           }
