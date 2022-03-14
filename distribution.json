@@ -11,7 +11,7 @@
       "id": "WitcherCraft-1.12.2",
       "name": "WitcherCraft",
       "description": "WitcherCraft Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
-      "icon": "https://i.redd.it/22gyin6301641.jpg",
+      "icon": null,
       "version": "1.0.0",
       "address": "rgmc.pl",
       "minecraftVersion": "1.12.2",
@@ -1390,6 +1390,20 @@
           }
         },
         {
+          "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5312767,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionaloff/worldedit-mod-7.2.5-dist.jar",
+            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:22.3.0@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
@@ -1400,6 +1414,86 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.library:AutoRegLib:1.6-49@jar",
+          "name": "AutoRegLib",
+          "type": "Library",
+          "artifact": {
+            "size": 57279,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/AutoRegLib-1.6-49.jar",
+            "MD5": "16302251afc7a757f00899b270cc0fa2"
+          }
+        },
+        {
+          "id": "generated.library:CreativeCore_v2.2.1_mc1.16.5:0.0.0@jar",
+          "name": "CreativeCore_v2.2.1_mc1.16.5",
+          "type": "Library",
+          "artifact": {
+            "size": 631207,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/CreativeCore_v2.2.1_mc1.16.5.jar",
+            "MD5": "c32d3e1df267d820eb2b1b8e8adb75e1"
+          }
+        },
+        {
+          "id": "generated.library:Kiwi:1.16.5-3.6.1@jar",
+          "name": "Kiwi",
+          "type": "Library",
+          "artifact": {
+            "size": 218587,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/Kiwi-1.16.5-3.6.1.jar",
+            "MD5": "c79e1838577a700ddb0c5602fdade074"
+          }
+        },
+        {
+          "id": "generated.library:Placebo:1.16.5-4.6.1@jar",
+          "name": "Placebo",
+          "type": "Library",
+          "artifact": {
+            "size": 145933,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/Placebo-1.16.5-4.6.1.jar",
+            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+          }
+        },
+        {
+          "id": "generated.library:PuzzlesLib:v1.0.15-1.16.5-Forge@jar",
+          "name": "PuzzlesLib",
+          "type": "Library",
+          "artifact": {
+            "size": 383853,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/PuzzlesLib-v1.0.15-1.16.5-Forge.jar",
+            "MD5": "cd15438ee5217328af6473cad6425ab5"
+          }
+        },
+        {
+          "id": "generated.library:citadel:1.8.1-1.16.5@jar",
+          "name": "citadel",
+          "type": "Library",
+          "artifact": {
+            "size": 482439,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/citadel-1.8.1-1.16.5.jar",
+            "MD5": "9ee0682eec5d343c6238e30c21c98e69"
+          }
+        },
+        {
+          "id": "generated.library:geckolib:forge-1.16.5-3.0.65@jar",
+          "name": "geckolib",
+          "type": "Library",
+          "artifact": {
+            "size": 3396947,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/geckolib-forge-1.16.5-3.0.65.jar",
+            "MD5": "e91b50323fb87f83f21a8ec683ff6c3f"
+          }
+        },
+        {
+          "id": "generated.library:kotlinforforge:1.17.0-obf@jar",
+          "name": "kotlinforforge",
+          "type": "Library",
+          "artifact": {
+            "size": 6754655,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/kotlinforforge-1.17.0-obf.jar",
+            "MD5": "7671b34c5268409692e09e8da69fceb6"
           }
         }
       ]
