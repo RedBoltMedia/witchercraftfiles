@@ -1382,12 +1382,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5312767,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionaloff/worldedit-mod-7.2.5-dist.jar",
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionalon/worldedit-mod-7.2.5-dist.jar",
             "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1470,6 +1469,616 @@
           "artifact": {
             "size": 6754655,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/kotlinforforge-1.17.0-obf.jar",
+            "MD5": "7671b34c5268409692e09e8da69fceb6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WitcherCraftkurwa-1.16.5",
+      "name": "WitcherCraftkurwa (Minecraft 1.16.5)",
+      "description": "WitcherCraftkurwa Running Minecraft 1.16.5 (Forge v36.2.31)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.16.5",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.16.5-36.2.31",
+          "name": "Minecraft Forge (base jar)",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 212607,
+            "MD5": "f4b3356f287b8d5c336c98727eb46936",
+            "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/forge/1.16.5-36.2.31/forge-1.16.5-36.2.31.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.16.5-36.2.31",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 13577,
+                "MD5": "06e4bc49d9c688f3213082bf1c9326a0",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/versions/1.16.5-forge-36.2.31/1.16.5-forge-36.2.31.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forge:1.16.5-36.2.31:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "artifact": {
+                "size": 2756431,
+                "MD5": "fb1de92953ebd81f81ce3b2f63dbeecf",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/forge/1.16.5-36.2.31/forge-1.16.5-36.2.31-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.16.5-36.2.31:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "artifact": {
+                "size": 4214104,
+                "MD5": "2084ca2a27354bd85735ec3722226464",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/forge/1.16.5-36.2.31/forge-1.16.5-36.2.31-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.16.5-20210115.111550:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "artifact": {
+                "size": 11352644,
+                "MD5": "81984526e4a80319242a5118e66d1798",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.16.5-20210115.111550:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "artifact": {
+                "size": 9118806,
+                "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.16.5-20210115.111550:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "artifact": {
+                "size": 8428369,
+                "MD5": "dbed747390f81e10cee40500b726431a",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "org.ow2.asm:asm:9.1",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 121790,
+                "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.1",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72641,
+                "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.1",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 52662,
+                "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.1",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 84679,
+                "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.1",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 34257,
+                "MD5": "f0e82941173b6049c03e8214ace70ecd",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:8.1.3",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 126747,
+                "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:grossjava9hacks:1.3.3",
+              "name": "Minecraft Forge (grossjava9hacks)",
+              "type": "Library",
+              "artifact": {
+                "size": 2113,
+                "MD5": "d19b487241008d8e6111137a289ea1d7",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:3.0.1",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 76586,
+                "MD5": "ada4c365c3d0de73c05a94010432b547",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:4.0.0",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 42873,
+                "MD5": "84c4758e6139b70146104be5bb1300b5",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:3.2.0",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 20172,
+                "MD5": "8f1f6942d17d88d704324e8000666a1a",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:4.0.6",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 25453,
+                "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.3",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199091,
+                "MD5": "093b0ca357d3f8b922170b8d7f43948c",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.3",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31288,
+                "MD5": "615b8e62371c536f876764591990118d",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.12.1",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 732926,
+                "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.6.3",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 57824,
+                "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.8.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 15425,
+                "MD5": "ee4596e1413cc1a5e080c971d6064753",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-api:2.15.0",
+              "name": "Minecraft Forge (log4j-api)",
+              "type": "Library",
+              "artifact": {
+                "size": 301804,
+                "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.15.0",
+              "name": "Minecraft Forge (log4j-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 1789769,
+                "MD5": "81e0433ae00602c0e4d00424d213b0ab",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0",
+              "name": "Minecraft Forge (log4j-slf4j18-impl)",
+              "type": "Library",
+              "artifact": {
+                "size": 21223,
+                "MD5": "196442f1bdde4dbb0f576eed616e21b0",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.4",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78146,
+                "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.4",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1069391,
+                "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:nashorn-core-compat:15.1.1.1",
+              "name": "Minecraft Forge (nashorn-core-compat)",
+              "type": "Library",
+              "artifact": {
+                "size": 2194057,
+                "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
+                "url": "https://redboltmedia.github.io/witchercraftfiles/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fionathemortal.betterbiomeblend:betterbiomeblend:1.16.4-1.2.9-forge@jar",
+          "name": "Better Biome Blend",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33454,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/betterbiomeblend-1.16.4-1.2.9-forge.jar",
+            "MD5": "5d49776d036ca355ee9a3ff88eeac8f3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mods.betterfoliage:betterfoliage:2.7.1@jar",
+          "name": "Better Foliage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 937719,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/BetterFoliage-2.7.1-Forge-1.16.5.jar",
+            "MD5": "c809a72413a220353afe1301ebab91c1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.nekeras.borderless:borderlesswindow:1.16.5-1.2.1@jar",
+          "name": "Borderless Window",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 48086,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/BorderlessWindow-1.16.5-1.2.1.jar",
+            "MD5": "9cc6ee315de1ca4dbc6a3b2a0e329b12"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth-config:4.14.54@jar",
+          "name": "Cloth Config v4 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1458779,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/cloth-config-4.14.54-forge.jar",
+            "MD5": "b8d5fa1640934a2e90b94e4206e939cd"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:4.0.5.0@jar",
+          "name": "§3Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14746751,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/DynamicSurroundings-1.16.5-4.0.5.0.jar",
+            "MD5": "047b3dc132f9e591104af6a63c2ac2e3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.morimori:gamemenumodoption:1.8.2@jar",
+          "name": "Game Menu Mod Option",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96334,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/GameMenuModOption-1.16.4-1.8.2.jar",
+            "MD5": "511765f89c4480bb431ecb5505d0c88a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "team.creative:itemphysiclite:1.4.0@jar",
+          "name": "ItemPhysic Lite",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16858,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/ItemPhysicLite_v1.4.8_mc1.16.5.jar",
+            "MD5": "0f2b6f13a6f70806c7a9c2f484c6b50e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "mezz.jei:jei:7.7.1.152@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 828677,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/jei-1.16.5-7.7.1.152.jar",
+            "MD5": "fb5fe43b43be01abc6c24eff29791b52"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G6@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5835761,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G6.jar",
+            "MD5": "4a13bb8132744ab7beeff9f076d48125"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:optifine:1.16.5_HD_U_G7@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5924305,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:optifine:1.16.5_HD_U_G8@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.tmtravlr:soundfilters:0.14_for_1.16.2@jar",
+          "name": "Sound Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 42485,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/SoundFilters-0.14_for_1.16.2.jar",
+            "MD5": "e0c0227ddad69a11fd3eef11acb5b1f6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.torocraft:torohealth:1.16.4-forge-4@jar",
+          "name": "ToroHealth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96418,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/torohealth-1.16.4-forge-4.jar",
+            "MD5": "2cb4db18b135498a7eee6c1b17926d1e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.5+57d5ac9@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5312767,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/worldedit-mod-7.2.5-dist.jar",
+            "MD5": "96ff53c70d4a3ff9df5592462b0f0685"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:22.3.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1116419,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/forgemods/optionalon/Xaeros_Minimap_22.3.0_Forge_1.16.5.jar",
+            "MD5": "7979d96de9f52630b6277134385f9710"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.library:AutoRegLib:1.6-49@jar",
+          "name": "AutoRegLib",
+          "type": "Library",
+          "artifact": {
+            "size": 57279,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/AutoRegLib-1.6-49.jar",
+            "MD5": "16302251afc7a757f00899b270cc0fa2"
+          }
+        },
+        {
+          "id": "generated.library:Kiwi:1.16.5-3.6.1@jar",
+          "name": "Kiwi",
+          "type": "Library",
+          "artifact": {
+            "size": 218587,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/Kiwi-1.16.5-3.6.1.jar",
+            "MD5": "c79e1838577a700ddb0c5602fdade074"
+          }
+        },
+        {
+          "id": "generated.library:Placebo:1.16.5-4.6.1@jar",
+          "name": "Placebo",
+          "type": "Library",
+          "artifact": {
+            "size": 145933,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/Placebo-1.16.5-4.6.1.jar",
+            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+          }
+        },
+        {
+          "id": "generated.library:PuzzlesLib:v1.0.15-1.16.5-Forge@jar",
+          "name": "PuzzlesLib",
+          "type": "Library",
+          "artifact": {
+            "size": 383853,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/PuzzlesLib-v1.0.15-1.16.5-Forge.jar",
+            "MD5": "cd15438ee5217328af6473cad6425ab5"
+          }
+        },
+        {
+          "id": "generated.library:citadel:1.8.1-1.16.5@jar",
+          "name": "citadel",
+          "type": "Library",
+          "artifact": {
+            "size": 482439,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/citadel-1.8.1-1.16.5.jar",
+            "MD5": "9ee0682eec5d343c6238e30c21c98e69"
+          }
+        },
+        {
+          "id": "generated.library:geckolib:forge-1.16.5-3.0.65@jar",
+          "name": "geckolib",
+          "type": "Library",
+          "artifact": {
+            "size": 3396947,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/geckolib-forge-1.16.5-3.0.65.jar",
+            "MD5": "e91b50323fb87f83f21a8ec683ff6c3f"
+          }
+        },
+        {
+          "id": "generated.library:kotlinforforge:1.17.0-obf@jar",
+          "name": "kotlinforforge",
+          "type": "Library",
+          "artifact": {
+            "size": 6754655,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraftkurwa-1.16.5/libraries/kotlinforforge-1.17.0-obf.jar",
             "MD5": "7671b34c5268409692e09e8da69fceb6"
           }
         }
