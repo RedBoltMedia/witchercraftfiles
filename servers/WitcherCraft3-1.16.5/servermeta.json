@@ -3,16 +3,16 @@
   "meta": {
     "version": "1.0.0",
     "name": "WitcherCraft3 (Minecraft 1.16.5)",
-    "description": "WitcherCraft3 Running Minecraft 1.16.5 (Forge v36.2.31)",
-    "icon": "https://YourURL.domain/CHANGE_ME.png",
-    "address": "localhost:25565",
+    "description": "3 wiedzmin 3 najlepszy",
+    "icon": "https://i1.sndcdn.com/avatars-000804932956-m7e2lx-t500x500.jpg",
+    "address": "witchercraft.csrv.pl",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": false,
-    "autoconnect": false
+    "autoconnect":true
   },
   "forge": {
     "version": "36.2.31"
