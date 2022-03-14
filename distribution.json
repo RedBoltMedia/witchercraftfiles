@@ -1541,16 +1541,6 @@
           }
         },
         {
-          "id": "com.lycanitesmobs:lycanitesmobs:1.16.5-2.3.0.0@jar",
-          "name": "Lycanites Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 84421019,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/lycanitesmobs-1.16.5-2.3.0.0-ALPHA05.jar",
-            "MD5": "5198e74eafefe5aed74b0880edc0b740"
-          }
-        },
-        {
           "id": "com.minecolonies.coremod:minecolonies:1.16.5-1.0.429-RELEASE@jar",
           "name": "MineColonies",
           "type": "ForgeMod",
