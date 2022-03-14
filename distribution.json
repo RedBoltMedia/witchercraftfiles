@@ -1286,6 +1286,16 @@
           }
         },
         {
+          "id": "team.creative:creativecore:2.0.0@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 631207,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/CreativeCore_v2.2.1_mc1.16.5.jar",
+            "MD5": "c32d3e1df267d820eb2b1b8e8adb75e1"
+          }
+        },
+        {
           "id": "org.orecruncher:dsurround:4.0.5.0@jar",
           "name": "§3Dynamic Surroundings",
           "type": "ForgeMod",
