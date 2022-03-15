@@ -1641,6 +1641,16 @@
           }
         },
         {
+          "id": "com.talhanation:smallships:1.10.1@jar",
+          "name": "Small Ships Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2400243,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/smallships-1.16.5-1.10.1.jar",
+            "MD5": "d29343cb93fc48215f9a2db7a0495df2"
+          }
+        },
+        {
           "id": "snownee.snow:snowrealmagic:2.9.0@jar",
           "name": "Snow! Real Magic!",
           "type": "ForgeMod",
@@ -1734,6 +1744,19 @@
             "size": 1116419,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionalon/Xaeros_Minimap_22.3.0_Forge_1.16.5.jar",
             "MD5": "7979d96de9f52630b6277134385f9710"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.20.3.1@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 513484,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionalon/XaerosWorldMap_1.20.3.1_Forge_1.16.5.jar",
+            "MD5": "6d1c91c5de56e9588e4acd61c8c75c1e"
           },
           "required": {
             "value": false
