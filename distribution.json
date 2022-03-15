@@ -1545,9 +1545,37 @@
           "name": "Lycanites Mobs",
           "type": "ForgeMod",
           "artifact": {
+            "size": 84311084,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionaloff/lycanitesmobs-1.16.5-2.3.0.0-ALPHA04.jar",
+            "MD5": "819949aac25411d58afb9daccab819b2"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.lycanitesmobs:lycanitesmobs:1.16.5-2.3.0.0@jar",
+          "name": "Lycanites Mobs",
+          "type": "ForgeMod",
+          "artifact": {
             "size": 84421019,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionaloff/lycanitesmobs-1.16.5-2.3.0.0-ALPHA05.jar",
             "MD5": "5198e74eafefe5aed74b0880edc0b740"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.lycanitesmobs:lycanitesmobs:1.16.5-2.3.3.3@jar",
+          "name": "Lycanites Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99709385,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionaloff/lycanitesmobs-1.16.5-2.3.3.3%20(1).jar",
+            "MD5": "1b54764ac7b205230b515407b3cbb50c"
           },
           "required": {
             "value": false,
@@ -1754,16 +1782,6 @@
           }
         },
         {
-          "id": "generated.library:AutoRegLib:1.6-49@jar",
-          "name": "AutoRegLib",
-          "type": "Library",
-          "artifact": {
-            "size": 57279,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/AutoRegLib-1.6-49.jar",
-            "MD5": "16302251afc7a757f00899b270cc0fa2"
-          }
-        },
-        {
           "id": "generated.library:OptiFine_1.16.5_HD_U_G8:0.0.0@jar",
           "name": "OptiFine_1.16.5_HD_U_G8",
           "type": "Library",
@@ -1771,36 +1789,6 @@
             "size": 6046996,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          }
-        },
-        {
-          "id": "generated.library:PuzzlesLib:v1.0.15-1.16.5-Forge@jar",
-          "name": "PuzzlesLib",
-          "type": "Library",
-          "artifact": {
-            "size": 383853,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/PuzzlesLib-v1.0.15-1.16.5-Forge.jar",
-            "MD5": "cd15438ee5217328af6473cad6425ab5"
-          }
-        },
-        {
-          "id": "generated.library:geckolib:forge-1.16.5-3.0.65@jar",
-          "name": "geckolib",
-          "type": "Library",
-          "artifact": {
-            "size": 3396947,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/geckolib-forge-1.16.5-3.0.65.jar",
-            "MD5": "e91b50323fb87f83f21a8ec683ff6c3f"
-          }
-        },
-        {
-          "id": "generated.library:kotlinforforge:1.17.0-obf@jar",
-          "name": "kotlinforforge",
-          "type": "Library",
-          "artifact": {
-            "size": 6754655,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/libraries/kotlinforforge-1.17.0-obf.jar",
-            "MD5": "7671b34c5268409692e09e8da69fceb6"
           }
         }
       ]
