@@ -1555,34 +1555,6 @@
           }
         },
         {
-          "id": "com.lycanitesmobs:lycanitesmobs:1.16.5-2.3.0.0@jar",
-          "name": "Lycanites Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 84421019,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionaloff/lycanitesmobs-1.16.5-2.3.0.0-ALPHA05.jar",
-            "MD5": "5198e74eafefe5aed74b0880edc0b740"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "com.lycanitesmobs:lycanitesmobs:1.16.5-2.3.3.3@jar",
-          "name": "Lycanites Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 99709385,
-            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/optionaloff/lycanitesmobs-1.16.5-2.3.3.3%20(1).jar",
-            "MD5": "1b54764ac7b205230b515407b3cbb50c"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "com.minecolonies.coremod:minecolonies:1.16.5-1.0.429-RELEASE@jar",
           "name": "MineColonies",
           "type": "ForgeMod",
