@@ -1254,6 +1254,16 @@
           }
         },
         {
+          "id": "me.shedaniel:architectury:1.30.55@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 549030,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/architectury-1.30.55.jar",
+            "MD5": "ca182717904952db7652b69c6ea1aa96"
+          }
+        },
+        {
           "id": "fionathemortal.betterbiomeblend:betterbiomeblend:1.16.4-1.2.9-forge@jar",
           "name": "Better Biome Blend",
           "type": "ForgeMod",
@@ -1412,6 +1422,16 @@
           }
         },
         {
+          "id": "yesman.epicfight.main:epicfight:16.5.13@jar",
+          "name": "Epic Fight Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3828854,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/EpicFightMod-16.5.13.jar",
+            "MD5": "5869309ac395fe29bb3efb33ff3a5cdc"
+          }
+        },
+        {
           "id": "com.userofbricks.expandedcombat:expanded_combat:2.3.0@jar",
           "name": "Expanded Combat",
           "type": "ForgeMod",
@@ -1452,6 +1472,36 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftblibrary:1605.3.4-build.90@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 585125,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
+            "MD5": "88b4c3497d1aa260481bd74e464a3d70"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:1605.3.6-build.98@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 943662,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/ftb-quests-forge-1605.3.6-build.98.jar",
+            "MD5": "953d46de644a07e88c11a9afbd9f577e"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:1605.2.3-build.40@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 171679,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
+            "MD5": "08d807589127eac26626d36ac36d1b21"
+          }
+        },
+        {
           "id": "net.morimori:gamemenumodoption:1.8.2@jar",
           "name": "Game Menu Mod Option",
           "type": "ForgeMod",
@@ -1482,6 +1532,16 @@
             "size": 21314646,
             "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/iceandfire-2.1.9-1.16.5.jar",
             "MD5": "abdaef27eb07a61fef4e28113ed774a2"
+          }
+        },
+        {
+          "id": "dev.latvian.mods:itemfilters:1605.2.5-build.9@jar",
+          "name": "Item Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106801,
+            "url": "https://redboltmedia.github.io/witchercraftfiles/servers/WitcherCraft3-1.16.5/forgemods/required/item-filters-forge-1605.2.5-build.9.jar",
+            "MD5": "6e81a16049d7f2a6996cd1b0e97a3b03"
           }
         },
         {
